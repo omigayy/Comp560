@@ -1,7 +1,7 @@
 # Comp560
 Artificial Intelligence
 
-###Homework
+### Homework
 
 * HW2: minimax game winning algorithm
 * HW3: spam/ham filter
